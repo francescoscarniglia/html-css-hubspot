@@ -318,6 +318,8 @@ p.p-subtitle {
 
 .jumbotron {
   position: relative;
+  height: 640px;
+  width: 1200px;
 }
 
 .jumbotron-text {
