@@ -310,7 +310,7 @@ p.p-subtitle {
 /* jumbotron */
 .jumbotron-bg  {
   background-image: url('../img/jumbotron.png');
-  background-position: 0% 0%;
+  background-position: 100% 0%;
   background-repeat:no-repeat;
   background-size: cover;
   height: 700px;
